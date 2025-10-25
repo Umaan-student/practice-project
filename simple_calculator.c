@@ -18,6 +18,5 @@ int main() {
     else if(op == '*') printf("Result: %d\n", a * b);
     else if(op == '/') printf("Result: %d\n", a / b);
     else printf("Invalid operator\n");
-
-    return 0;
+ return 0;
 }

@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	//for presicion we use double datatype.
